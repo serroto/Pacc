@@ -14,7 +14,7 @@ const Billing = () => {
       <h2 className={styles.heading2}>
         Easily control your <br className="sm:block hidden" /> billing & invoicing
       </h2>
-      <p className={`${styles.paragraph} max-w-[500px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[480px] mt-5`}>
         Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
         aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
         placerat.
