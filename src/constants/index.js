@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We got the most promising business idea award from RealAward awards! ",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We take proactive steps make sure your information and operations are secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Lift Yourself Up",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "It's confirmed that when you're not thinking about budget planning, your stress level decreases by 15% each day. It's real, and the source is.. Just trust us buddy. ",
   },
 ];
 
@@ -83,7 +83,7 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Operation",
     value: "$230M+",
   },
 ];

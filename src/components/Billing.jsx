@@ -5,7 +5,7 @@ const Billing = () => {
   return (
     <section id='product' className={layout.sectionReverse}> {/*section reverse changes the of divs when user goes desktop to mobile*/}
       <div className={layout.sectionImgReverse}>
-        <img src={bill} alt="billing" className='w-[100%] h-[100%] relative z-[5] '/>
+        <img src={bill} alt="billing" className='w-[85%] h-[85%] relative z-[5] '/>
          {/* gradients */}
         <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient" />
         <div className="absolute z-[0] w-[50%] h-[50%] -left-1/2 bottom-0 rounded-full pink__gradient" />

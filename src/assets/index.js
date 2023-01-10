@@ -1,12 +1,12 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
+import card from "./robotWaving.png";
 import binance from "./binance.png";
-import card from "./card.png";
+import bill from "./robotStanding.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+import logo from "./pacc-logo.png";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import robotPeeking from "./robotPeeking.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -33,7 +33,7 @@ export {
   dropbox,
   logo,
   quotes,
-  robot,
+  robotPeeking,
   send,
   shield,
   star,
